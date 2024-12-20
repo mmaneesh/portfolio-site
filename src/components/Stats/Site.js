@@ -5,7 +5,6 @@ import initialData from '../../data/stats/site';
 
 const Stats = () => {
   const [data, setResponseData] = useState(initialData);
-  // TODO think about persisting this somewhere
   const fetchData = useCallback(async () => {
     // request must be authenticated if private
     const res = await fetch(

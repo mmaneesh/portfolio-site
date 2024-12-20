@@ -12,15 +12,16 @@ const SideBar = () => (
         <img src={`${PUBLIC_URL}/images/me.jpg`} alt="" />
       </Link>
       <header>
-        <h2>Michael D&apos;Angelo</h2>
+        <h2>Maneesh Maddala</h2>
         <p>
-          <a href="mailto:michael@mldangelo.com">michael@mldangelo.com</a>
+          <a href="mailto:maneesh.maddala@gmail.com">maneesh.maddala@gmail.com</a>
         </p>
       </header>
     </section>
 
     <section className="blurb">
       <h2>About</h2>
+      {/* TODO */}
       <p>
         Hi, I&apos;m Michael. I am a{' '}
         <a href="https://icme.stanford.edu/">Stanford ICME</a> graduate, YC
@@ -48,6 +49,7 @@ const SideBar = () => (
     <section id="footer">
       <ContactIcons />
       <p className="copyright">
+        {/* TODO */}
         &copy; Michael D&apos;Angelo <Link to="/">mldangelo.com</Link>.
       </p>
     </section>
