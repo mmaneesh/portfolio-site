@@ -14,7 +14,7 @@
 const work = [
   {
     name: 'Morning Star',
-    position: 'Staff QA',
+    position: 'Staff QA Engineer',
     url: 'https://promptfoo.dev',
     startDate: '2024-07-01',
     summary: 'Promptfoo builds open-source tools to evaluate, find, and fix vulnerabilities in large language models (LLMs). Our open-source tools are used by over 35,000 developers and researchers worldwide.',
