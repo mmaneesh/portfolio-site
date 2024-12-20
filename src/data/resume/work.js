@@ -13,7 +13,7 @@
  */
 const work = [
   {
-    name: 'Promptfoo',
+    name: 'Morning Star',
     position: 'Co-founder & CTO',
     url: 'https://promptfoo.dev',
     startDate: '2024-07-01',
