@@ -23,13 +23,10 @@ const SideBar = () => (
       <h2>About</h2>
       {/* TODO */}
       <p>
-        Hi, I&apos;m Michael. I am a{' '}
-        <a href="https://icme.stanford.edu/">Stanford ICME</a> graduate, YC
-        alumnus, and the co-founder and CTO of{' '}
-        <a href="https://promptfoo.dev">Promptfoo</a>. Previously, I
-        was VP of Engineering at <a href="https://usesmileid.com">SmileID</a>,
-        co-founder and CTO of <a href="https://arthena.com">Arthena</a>, and
-        co-founded <a href="https://matroid.com">Matroid</a>.
+        Hi, I’m a seasoned Software Development Engineer in Test with a proven record of success
+        in the IT and services industry. Over the years, I’ve developed deep expertise in designing
+        and implementing robust automated testing frameworks, using tools like Cypress,
+        Playwright, WebdriverIO, and Selenium WebDriver.
       </p>
       <ul className="actions">
         <li>
@@ -49,8 +46,7 @@ const SideBar = () => (
     <section id="footer">
       <ContactIcons />
       <p className="copyright">
-        {/* TODO */}
-        &copy; Michael D&apos;Angelo <Link to="/">mldangelo.com</Link>.
+        &copy; Maneesh Maddala <Link to="https://mmaneesh.github.io/portfolio-site/">https://mmaneesh.github.io/portfolio-site/</Link>.
       </p>
     </section>
   </section>
